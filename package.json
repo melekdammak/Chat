@@ -1,0 +1,32 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "mini projet de chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[B"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melekdammak/Chat.git"
+  },
+  "keywords": [
+    "Chat",
+    "Nojejs",
+    "Angular"
+  ],
+  "author": "melek dammak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melekdammak/Chat/issues"
+  },
+  "homepage": "https://github.com/melekdammak/Chat#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose-type-email": "^1.0.10",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0"
+  }
+}
